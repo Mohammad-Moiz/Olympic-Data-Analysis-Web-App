@@ -13,20 +13,17 @@ Show some ❤️ and ⭐ the repo to support the project.
 
 
 
-file:///home/moiz/Pictures/Screenshots/Screenshot%20from%202024-06-13%2002-22-16.png
 
-
-
-file:///home/moiz/Pictures/Screenshots/Screenshot%20from%202024-06-13%2002-22-35.png
-
-
-
-file:///home/moiz/Pictures/Screenshots/Screenshot%20from%202024-06-13%2002-22-54.png
+![Screenshot from 2024-06-13 02-22-16](https://github.com/Mohammad-Moiz/Olympic-Data-Analysis-Web-App/assets/127727314/cca6a5d8-9795-4f16-b11d-893f562dd621)
 
 
 
 
-file:///home/moiz/Pictures/Screenshots/Screenshot%20from%202024-06-13%2002-23-03.png
+
+![Screenshot from 2024-06-13 02-22-35](https://github.com/Mohammad-Moiz/Olympic-Data-Analysis-Web-App/assets/127727314/620e3ffb-19d4-4e0f-b63a-9a2d47aef779)
+
+
+
 
 
 
