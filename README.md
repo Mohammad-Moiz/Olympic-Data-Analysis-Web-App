@@ -1,6 +1,6 @@
 # Olympic-Data-Analysis-Web-App
 
-A Platform where you get to know the detail statistics about all the olympics hel till 2019 regarding any country which youwant to know about, like how many players from xyz country had won Gold, Silver medals, their stats in the bar graph and pie chart to briefly analyze the particular country performance in olympics by year .
+A Platform where you get to know the detail statistics about all the olympics held till 2019 regarding any country which you want to know about, like how many players from xyz country had won Gold, Silver medals, their stats in the bar graph and pie chart to briefly analyze the particular country performance in olympics by year .
 
 -Using streamlit for frontend of the App
 
